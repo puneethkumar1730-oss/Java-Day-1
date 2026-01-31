@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class User1{
+public class Scanner{
       public static void main(String[] args) {
       Scanner sc=new Scanner(System.in);
       System.out.println("enter your salary:");
@@ -16,3 +16,4 @@ public class User1{
     }
 
       
+
